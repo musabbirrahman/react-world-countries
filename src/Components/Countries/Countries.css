@@ -1,0 +1,12 @@
+.countries{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    
+    
+}
+.country-count{
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
