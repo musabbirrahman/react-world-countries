@@ -3,9 +3,12 @@
     padding: 20px;
     border-radius: 20px;
     margin-bottom: 10px;
+    
 }
 .country-visited{
     border: 2px solid greenyellow;
+    background-color: azure;
+    
 }
 .flag-img{
     width: 300px;
